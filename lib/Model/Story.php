@@ -24,6 +24,11 @@ class Model_Story extends Model_Table {
 	}
 
 		function action_Muta_In_Sprint1(){
+            /*
+             * DEMO: how to assign story with sprint
+            $this['sprint_id']=123;
+            $this->save()
+             */
 		}
 		function action_Muta_In_Sprint2(){}
 		function action_Muta_In_Sprint3(){}
