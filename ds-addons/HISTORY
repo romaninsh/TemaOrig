@@ -1,0 +1,17 @@
+1.0 Initial release
+    - new Listers
+    - new Menu
+    - new ThemeSwitcher
+    - new GridExt
+    - new Tests
+1.1 Release
+    - new CronExpression (integration of Cron-Expression)
+    - new QueryPath (integration of QueryPath)
+    - new Scheduler (powerful self-made Cron job scheduler)
+    - multiple fixes in most add-ons
+    - new features for GridExt, like
+        - addToolbar()
+        - addActionToolbar()
+1.2 Release
+    - new RollingCURL
+    - multiple fixes
